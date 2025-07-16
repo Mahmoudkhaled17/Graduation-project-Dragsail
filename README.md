@@ -1,27 +1,27 @@
-# 🛰️ CubeSat Drag Sail Simulation for Satellite Deorbiting
-📌 Project Overview
+#  CubeSat Drag Sail Simulation for Satellite Deorbiting
+## Project Overview
 This project presents the design and simulation of a deployable drag sail system integrated into a 3U CubeSat (4 kg) to accelerate satellite deorbiting using passive aerodynamic forces in Low Earth Orbit (LEO).
 
 With the increasing concern over space debris, passive deorbiting techniques like drag sails provide an efficient, low-mass, fuel-free alternative to traditional propulsion systems. This simulation evaluates the performance of a drag sail across various altitudes and environmental conditions.
 
-🧠 Objectives
+## Objectives
 Design a 1.7 m² drag sail mechanism for a CubeSat mission.
 
-Simulate and analyze the satellite’s orbital decay under:
+  Simulate and analyze the satellite’s orbital decay under:
 
-Earth gravity
+    -Earth gravity
 
-Atmospheric drag
+    -Atmospheric drag
 
-Solar Radiation Pressure (SRP)
+    -Solar Radiation Pressure (SRP)
 
-Third-body gravity (Moon)
+    -Third-body gravity (Moon)
 
-Compare orbital decay with and without drag sail across altitudes.
+    -Compare orbital decay with and without drag sail across altitudes.
 
 Use simulation data for validation and parametric study.
 
-🛠️ Tools Used
+## Tools Used
 STK (Systems Tool Kit) – Orbit propagation, force modeling, mission simulation.
 
 Python (Pandas, Matplotlib) – Data analysis & plotting.
