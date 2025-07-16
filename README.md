@@ -43,6 +43,7 @@ Decay Time Comparison with and without drag sail:
 
 Altitude (km)	With Drag Sail (years)	Without Drag Sail
 |Altitude (km) | Value 1 | Value 2|
+|--------------|---------|-----------|
 |300           | 0.001   | 0.21|
 |500           | 0.044   | 12|
 |600           | 0.34    | Not Decay|
