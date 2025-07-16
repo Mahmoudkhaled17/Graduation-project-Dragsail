@@ -1,4 +1,4 @@
-#🛰️ CubeSat Drag Sail Simulation for Satellite Deorbiting
+# 🛰️ CubeSat Drag Sail Simulation for Satellite Deorbiting
 📌 Project Overview
 This project presents the design and simulation of a deployable drag sail system integrated into a 3U CubeSat (4 kg) to accelerate satellite deorbiting using passive aerodynamic forces in Low Earth Orbit (LEO).
 
