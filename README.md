@@ -42,7 +42,7 @@ Use simulation data for validation and parametric study.
 Decay Time Comparison with and without drag sail:
 
 Altitude (km)	With Drag Sail (years)	Without Drag Sail
-|Altitude (km) | Value 1 | Value 2|
+|Altitude (km) | with drag | without drag|
 |--------------|---------|-----------|
 |300           | 0.001   | 0.21|
 |500           | 0.044   | 12|
